@@ -8,6 +8,9 @@
         <title>Meu primeiro servlet</title>
     </head>
     <body>
-        <h1>Olá, mundo!</h1>
+        <h1>Tela de Login</h1>
+        Usuario: <input type="text" id="usuario"/>
+        Senha: <input type="password" id="senha"/>
+        <button id="enviar" value="Confirmar"/>
     </body>
 </html>
